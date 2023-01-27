@@ -1,5 +1,6 @@
 - My name is Jan Bojko
-- I’m learning frontend development (JS vanila, HTML, CSS, Sass , React.js)
-- Student of IT
+- I'm learning Frone-End developer and learning UI/UX designer
+- My code is mostly written in: Javascript, React, Tailwind, Css, Html or C#
+- Student of IT on VSB Technical university of Ostrava
 - Inbox: honzabojko@seznam.cz
 - LinkedIN: https://www.linkedin.com/in/jan-bojko-563bb91b6/
