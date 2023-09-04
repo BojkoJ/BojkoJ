@@ -1,4 +1,4 @@
 - My name is Jan Bojko
 - I'm learning full-stack development and UI/UX design
-- My code is mostly written in: Javascript, React, Tailwind, Css, Html or C#
+- Stack: React, Node, Express, PostgreSQL, Html&Css, Tailwindcss, C#, C
 - Student of IT on VSB Technical university of Ostrava
