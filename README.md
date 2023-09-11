@@ -19,6 +19,6 @@
 </div>
 
 <div align="left" gap="5px">
-  <h3 align="left">I currently study computer science at:</h3>
+  <h3 align="left">I am currently studying computer science at:</h3>
   <a href="https://www.vsb.cz/en"><img height="35" src="https://www.vsb.cz/share/webresources/logos/full/vsb/vsb_en.svg"></a>
 </div>
