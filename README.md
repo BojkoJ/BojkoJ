@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Next.js, Typescript, Tailwind, React.js, Node.js, GrapgQL, Prisma**
 
-- 📫 How to reach me **honzabojko@seznam.cz | jan.bojko@pickering.cz**
+- 📫 Inbox: **honzabojko@seznam.cz | jan.bojko@pickering.cz**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can also contact me here::</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jan-bojko-563bb91b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jan-bojko-563bb91b6/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jan-bojko-563bb91b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan-bojko-563bb91b6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
