@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
-<h3 align="center">Learning Fullstack developer</h3>
+<h3 align="center">Learning Fullstack developer and UI designer</h3>
 
 - 🌱 I’m currently learning **Next.js, Typescript, Tailwind, React.js, Node.js, GraphQL, Prisma**
 
