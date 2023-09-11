@@ -15,5 +15,5 @@
 
 <div align="left" gap="5px">
   <h3 align="left">I'm currently employed at:</h3>
-  <br><br><a href="https://www.pickeringtest.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Pickering-logo-blue-logo.svg"></a>
+  <a href="https://www.pickeringtest.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Pickering-logo-blue-logo.svg"></a>
 </div>
