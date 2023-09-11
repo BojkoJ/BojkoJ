@@ -15,10 +15,10 @@
 
 <div align="left" gap="5px">
   <h3 align="left">I'm currently employed at:</h3>
-  <a href="https://www.pickeringtest.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Pickering-logo-blue-logo.svg"></a>
+  <a href="https://www.pickeringtest.com"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Pickering-logo-blue-logo.svg"></a>
 </div>
 
 <div align="left" gap="5px">
   <h3 align="left">I currently study computer science at:</h3>
-  <a href="https://www.vsb.cz/en"><img height="25" src="https://www.vsb.cz/share/webresources/logos/full/vsb/vsb_en.svg"></a>
+  <a href="https://www.vsb.cz/en"><img height="35" src="https://www.vsb.cz/share/webresources/logos/full/vsb/vsb_en.svg"></a>
 </div>
