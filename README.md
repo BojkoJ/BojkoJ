@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
 <h3 align="center">Learning Fullstack developer</h3>
 
-- 🌱 I’m currently learning **Next.js, Typescript, Tailwind, React.js, Node.js, GrapgQL, Prisma**
+- 🌱 I’m currently learning **Next.js, Typescript, Tailwind, React.js, Node.js, GraphQL, Prisma**
 
 - 📫 Inbox: **honzabojko@seznam.cz | jan.bojko@pickering.cz**
 
