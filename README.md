@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Typescript, Tailwind, React.js, Node.js, GraphQL, Prisma**
 
-- 📫 Inbox: ** honzabojko@seznam.cz | jan.bojko@pickering.cz | jan.bojko.st@vsb.cz **
+- 📫 Inbox: **honzabojko@seznam.cz | jan.bojko@pickering.cz | jan.bojko.st@vsb.cz**
 
 <h3 align="left">You can also contact me here:</h3>
 <p align="left">
