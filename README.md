@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, Next.js, Tailwindcss, GraphQL and Prisma**
 
 - 📫 Inbox: **honzabojko@seznam.cz | jan.bojko@pickering.cz | jan.bojko.st@vsb.cz**
-- 
+
 <h3 align="center">You can also find me here:</h3>
 <div align="center">
     <a href="mailto:honzabojko@seznam.cz" title="Email"><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg"></a>
