@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
 <h3 align="center">Learning Fullstack developer and UI designer</h3>
 
-<p align="center">🌱 I’m currently learning **React.js, Node.js, Express.js, Next.js, Tailwindcss, GraphQL and Prisma**</p>
+<p align="center">🌱 I’m currently learning <b>React.js, Node.js, Express.js, Next.js, Tailwindcss, GraphQL and Prisma</b></p>
 
-<p align="center">📫 Inbox: **honzabojko@seznam.cz | jan.bojko@pickering.cz | jan.bojko.st@vsb.cz**</p>
+<p align="center">📫 Inbox: <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
 
 <h3 align="center">You can also find me here:</h3>
 <div align="center">
