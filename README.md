@@ -8,7 +8,7 @@
 <h3 align="center">You can also find me here:</h3>
 <div align="center">
     <a href="mailto:honzabojko@seznam.cz" title="Email"><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg"></a>
-    <a href="https://www.linkedin.com/in/jan-bojko-563bb91b6/" title="LinkedIn"><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a>
+    <a href="https://www.linkedin.com/in/jan-bojko/" title="LinkedIn"><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a>
     <a href="https://open.spotify.com/user/9abd6d7wylby0yfun3kq05zgz" title="Spotify"><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg"></a>
 </div>  
 
