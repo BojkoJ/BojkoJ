@@ -33,3 +33,5 @@
 </div>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bojkoj&show_icons=true&theme=dark&title_color=fcf7f7&text_color=ffffff&locale=en&layout=compact" alt="bojkoj" /></p>
+
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=cpp,ruby" alt="bojkoj" /></p>
