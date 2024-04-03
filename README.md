@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
-<h3 align="center">Junior Fullstack developer and UI designer</h3>
+<h3 align="center">Junior Freelance Fullstack developer, UI/UX designer and Student</h3>
 
 <p align="center">🌱 Currently my main focus is on: </br> <b>TypeScript, React, Next.js, tRPC, Prisma ORM, SQL and PL/SQL, GO, Python, Django</b></p>
 
