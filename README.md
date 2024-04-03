@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
 <h3 align="center">Junior Fullstack developer and UI designer</h3>
 
-<p align="center">🌱 Currently my main focus is on </br> <b>TypeScript, React, Next.js, tRPC, Prisma ORM, SQL and PL/SQL, GO, Python, Django</b></p>
+<p align="center">🌱 Currently my main focus is on: </br> <b>TypeScript, React, Next.js, tRPC, Prisma ORM, SQL and PL/SQL, GO, Python, Django</b></p>
 
 <p align="center">📫 Email Inbox: <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
 
