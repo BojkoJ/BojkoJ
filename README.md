@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
 <h3 align="center">Learning Fullstack (T3 stack) developer and UI designer</h3>
 
-<p align="center">🌱 I’m currently improving my knowledge of <b>React.js, Next.js, Node.js, Express.js, tRPC, SQL, GO, Ruby</b></p>
+<p align="center">🌱 I’m currently improving my knowledge of <b>TypeScript, React, Next.js, tRPC, Prisma ORM, SQL and PL/SQL, GO, Python, Django</b></p>
 
 <p align="center">📫 Inbox: <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
 
