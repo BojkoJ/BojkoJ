@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
-<h3 align="center">Learning Fullstack (T3 stack) developer and UI designer</h3>
+<h3 align="center">Junior Fullstack developer and UI designer</h3>
 
 <p align="center">🌱 I’m currently improving my knowledge of <b>TypeScript, React, Next.js, tRPC, Prisma ORM, SQL and PL/SQL, GO, Python, Django</b></p>
 
-<p align="center">📫 Inbox: <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
+<p align="center">📫 Email Inbox: <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
 
 <h3 align="center">You can also find me here:</h3>
 <div align="center">
-    <a href="mailto:honzabojko@seznam.cz" title="Email"><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg"></a>
-    <a href="https://www.linkedin.com/in/jan-bojko/" title="LinkedIn"><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a>
-    <a href="https://open.spotify.com/user/9abd6d7wylby0yfun3kq05zgz" title="Spotify"><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg"></a>
+    <a href="https://www.linkedin.com/in/jan-bojko/" title="LinkedIn"><img height="40" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/9abd6d7wylby0yfun3kq05zgz" title="Spotify"><img height="40" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>  
 
-<h3 align="center">Stack:</h3>
+<h3 align="center">My Tech Stack:</h3>
 
 <div>
 <p align="center">
