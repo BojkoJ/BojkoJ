@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
 <h3 align="center">Junior Freelance Fullstack developer, UI/UX designer and Student</h3>
-
+</br>
 <p align="center">🌱 Currently my main focus is on: </br> <b>TypeScript, React, Next.js, tRPC, Prisma ORM, SQL and PL/SQL, GO, Python, Django</b></p>
-
+</br>
 <p align="center">📫 Email Inbox: <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
-
+<hr>
 <h3 align="center">You can also find me here:</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/jan-bojko/" title="LinkedIn"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://bojkoj.vercel.app" title="LinkedIn"><img height="35" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>  
-
+</br>
 <h3 align="center">My Tech Stack:</h3>
 
 <div>
@@ -20,7 +20,7 @@
   </a>
 </p>
 </div>
-<hr>
+</br>
 <div align="center" gap="5px">
   <h3 align="center">I'm currently employed at:</h3>
   <a href="https://www.pickeringtest.com"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Pickering-logo-blue-logo.svg"></a>
@@ -31,7 +31,7 @@
   <a href="https://www.vsb.cz/en"><img height="35" src="https://www.vsb.cz/share/webresources/logos/full/vsb/vsb_en.svg"></a>
 </div>
 <br>
-<hr>
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=cpp" alt="bojkoj" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BojkoJ&theme=transparent" alt="bojkoj" />
+
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=cpp,html" alt="bojkoj" />
+
 </p>
