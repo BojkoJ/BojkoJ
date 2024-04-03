@@ -20,7 +20,7 @@
   </a>
 </p>
 </div>
-
+<hr>
 <div align="center" gap="5px">
   <h3 align="center">I'm currently employed at:</h3>
   <a href="https://www.pickeringtest.com"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Pickering-logo-blue-logo.svg"></a>
@@ -31,7 +31,7 @@
   <a href="https://www.vsb.cz/en"><img height="35" src="https://www.vsb.cz/share/webresources/logos/full/vsb/vsb_en.svg"></a>
 </div>
 <br>
-
+<hr>
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=cpp" alt="bojkoj" />
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BojkoJ&theme=transparent" alt="bojkoj" />
 </p>
