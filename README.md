@@ -32,6 +32,6 @@
 </div>
 <br>
 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=cpp,html" alt="bojkoj" />
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=cpp,html,css" alt="bojkoj" />
 
 </p>
