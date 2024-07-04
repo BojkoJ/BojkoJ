@@ -3,7 +3,7 @@
 </br>
 <p align="center">My main tools are: </br> <b>TypeScript, React, Next.js 14+, tRPC, Prisma and Drizzle ORM, SQL, Go, Python</b></p>
 </br>
-<p align="center">📫 Email Inbox: <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
+<p align="center">📫 Email Inbox: </br> <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
 </br>
 <p align="center">I am big <a href="https://create.t3.gg"><b>T3 stack</b></a> enthusiast.</p>
 <hr>
