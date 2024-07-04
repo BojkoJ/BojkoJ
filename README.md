@@ -7,6 +7,7 @@
 </br>
 <p align="center">I am big <a href="https://create.t3.gg"><b>T3</b></a> stack enthusiast.</p>
 </br>
+<hr>
 <h3 align="center">You can also find me here:</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/jan-bojko/" title="LinkedIn"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
