@@ -18,7 +18,7 @@
 <div>
 <p align="center">
   <a href="https://github.com/BojkoJ">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,tailwind,html,css,figma,npm,pnpm,yarn,vite,vercel,github,git,python,django,go,linux,vscode,mysql,mongodb,prisma,cpp,cs,dotnet&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,tailwind,html,css,figma,npm,pnpm,yarn,vercel,github,git,python,django,go,linux,vscode,mysql,mongodb,prisma,cpp,cs,dotnet&perline=9" />
   </a>
 </p>
 </div>
