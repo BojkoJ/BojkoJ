@@ -5,7 +5,6 @@
 </br>
 <p align="center">📫 Email Inbox: </br> <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
 </br>
-<p align="center">I am big <a href="https://create.t3.gg"><b>T3 stack</b></a> enthusiast.</p>
 <hr>
 <h3 align="center">You can also find me here:</h3>
 <div align="center">
