@@ -33,6 +33,6 @@
 </div>
 <br>
 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=CSS,html" alt="bojkoj" />
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=CSS,html" alt="bojko-j" />
 
 </p>
