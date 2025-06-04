@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jan Bojko</h1>
-<h3 align="center">Fullstack developer, UI/UX designer and Student</h3>
+<h3 align="center">Fullstack developer, UI/UX designer</h3>
 </br>
 <h4 align="center">My main tools are: </br> <b>TypeScript, React, Next.js, tRPC, Prisma and Drizzle ORM, SQL, Go, Python</b></h4>
+<h5>Bachelor, Computer Scientce, VSB-TUO</h5>
 </br>
 <p align="center">📫 Email Inbox: </br> <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
 </br>
@@ -26,12 +27,6 @@
   <h3 align="center">I'm currently employed at:</h3>
   <a href="https://www.pickeringtest.com"><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Pickering-logo-blue-logo.svg"></a>
 </div>
-
-<div align="center" gap="5px">
-  <h3 align="center">I am currently studying computer science at:</h3>
-  <a href="https://www.vsb.cz/en"><img height="55" src="https://www.vsb.cz/share/webresources/logos/full/vsb/vsb_en.svg"></a>
-</div>
-<br>
 
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=CSS,html,ruby" alt="bojko-j" />
 
