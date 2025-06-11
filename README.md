@@ -2,7 +2,7 @@
 
 </br><h3 align="center">Fullstack developer, UI/UX designer</h3>
 <h4 align="center">My main tools are: </br> <b>TypeScript, React, Next.js, tRPC, Prisma and Drizzle ORM, SQL, Go, Python</b></h4>
-<h5 align="center">Bachelor, Computer Science, VSB-TUO</h5>
+<h3 align="center">Bachelor, Computer Science, VSB-TUO</h3>
 </br>
 <p align="center">📫 Email Inbox: </br> <a href="mailto:honzabojko@seznam.cz" title="Email">honzabojko@seznam.cz</a> | <a href="mailto:jan.bojko@pickering.cz" title="Email">jan.bojko@pickering.cz</a> | <a href="mailto:jan.bojko.st@vsb.cz" title="Email">jan.bojko.st@vsb.cz</a></p>
 </br>
