@@ -60,16 +60,18 @@
 <h4 align="center" style="margin-top:40px;">Previously worked at</h4>
 
 <p align="center">
-  <a href="https://www.pickeringtest.com">
-    <img src="https://cdn.prod.website-files.com/5f108c3b3ffa90f88a3ca25f/5f108c3b3ffa9049923ca293_expan.do_brand_expando-logo.svg" height="25" />
+  <a href="https://expan.do">
+    <img src="https://dobrysef.cz/media/pub/brand/expando-logo.jpg" height="45" style="background-color:white; padding:4px; border-radius:4px;" />
   </a>
 </p>
+
+
 
 <h4 align="center" style="margin-top:30px;">Had Internship at</h4>
 
 <p align="center">
   <a href="https://www.tietoevry.com/">
-    <img src="https://cdn.cookielaw.org/logos/bc6fb811-424d-4fc3-94c0-db821999f32e/ce0338ab-0471-4df1-886d-793e86537cde/c26c6fb1-c851-47fc-ae86-47d779753aac/TE_Lockup_RGB_BLUE.png" height="25" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*F3stcIHZPDssZl5-.jpg" height="35" tyle="background-color:purple; padding:4px; border-radius:4px;" />
   </a>
   <br />
 </p>
