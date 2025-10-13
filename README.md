@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#007acc">Jan Bojko</span></h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer+%7C+UI%2FUX+Designer;&center=true&width=800&height=45&duration=5000&pause=2000" />
-<img src="https://readme-typing-svg.demolab.com/?lines=Typescript+%7C+React+%7C+Next.js+%7C+tRPC+%7C+Go;&center=true&width=800&height=45&duration=5000&pause=2000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Typescript+%7C+React+%7C+Next.js+%7C+SolidJS+%7C+Go;&center=true&width=800&height=45&duration=5000&pause=2000" />
 </p>
 
 
