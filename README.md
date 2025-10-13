@@ -15,7 +15,7 @@
 - 🎓 **Bachelor of Computer Science** – [**VSB-TUO**](https://www.vsb.cz/en/study/degree-students/degree-studies/bachelor-degree/bachelor-degree-detail/?programmeId=771) 2025
 - 💼 Software / Web Developer at [**Pickering Interfaces CZ**](https://www.pickeringtest.com) 
 - 💼 Freelance **FullStack Developer**
-- ⚙️ Working with: **TypeScript**, **React**, **Next.js**, **tRPC**, **Go**, **Prisma**, **Drizzle**, **SQL**, **Python**, **JavaScript**
+- ⚙️ Working with: **TypeScript**, **React**, **Next.js**, **SolidJS and SolidStart**, **tRPC**, **Go**, **Prisma**, **Drizzle**, **SQL**, **Python**, **JavaScript**
  - ✅ Check out my  [**Portfolio**](https://bojkoj.vercel.app) and [**LinkedIn**](https://www.linkedin.com/in/jan-bojko/) for more info about my work & experience
 - 🎨 I design my projects' **UI/UX** in Figma
 - 🧪 Exploring: Headless CMS Solutions, SolidJS and SolidStart
