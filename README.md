@@ -45,7 +45,7 @@
 <h3 align="center">🧰 Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,tailwind,html,css,figma,npm,pnpm,yarn,vercel,github,git,python,django,go,linux,vscode,mysql,mongodb,prisma,cpp,cs,dotnet&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,solidjs,express,js,ts,tailwind,html,css,githubactions,figma,npm,pnpm,vercel,github,git,python,django,go,linux,vscode,mysql,mongodb,prisma,cs,dotnet&perline=9" />
 </p>
 
 ---
