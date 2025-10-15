@@ -90,8 +90,8 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=CSS,html,ipynb" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BojkoJ&theme=transparent&exclude=CSS,html,ipynb" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojkoJ&theme=transparent&exclude=CSS,html,jupyter" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BojkoJ&theme=transparent&exclude=CSS,html,jupyter" />
 </p>
 
 <p align="center">
