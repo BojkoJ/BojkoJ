@@ -11,8 +11,8 @@
 
 <h3 align="center">🧠 About Me</h3>
 
-- 🌱 **Master of Computer Science** – [**VSB-TUO**](https://www.vsb.cz/en/study/degree-students/degree-studies/master-degree/master-degree-detail/?programmeId=1103) 👀 coming soon
-- 🎓 **Bachelor of Computer Science** – [**VSB-TUO**](https://www.vsb.cz/en/study/degree-students/degree-studies/bachelor-degree/bachelor-degree-detail/?programmeId=771) 2025
+- 🌱 **Master of Science in Computer Science** – [**VSB-TUO**](https://www.vsb.cz/en/study/degree-students/degree-studies/master-degree/master-degree-detail/?programmeId=1103) 👀 coming soon
+- 🎓 **Bachelor of Science in Computer Science** – [**VSB-TUO**](https://www.vsb.cz/en/study/degree-students/degree-studies/bachelor-degree/bachelor-degree-detail/?programmeId=771) 2025
 - 💼 Software / Web Developer at [**Pickering Interfaces CZ**](https://www.pickeringtest.com) 
 - 💼 Freelance **FullStack Developer**
 - ⚙️ Working with: **TypeScript**, **React**, **Next.js**, **SolidJS and SolidStart**, **tRPC**, **Go**, **Prisma**, **Drizzle**, **SQL**, **Python**, **JavaScript**
