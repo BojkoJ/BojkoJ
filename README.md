@@ -18,7 +18,7 @@
 - ⚙️ Working with: **TypeScript**, **React**, **Next.js**, **SolidJS and SolidStart**, **tRPC**, **Go**, **Prisma**, **Drizzle**, **SQL**, **Python**, **JavaScript**
  - ✅ Check out my  [**Portfolio**](https://bojkoj.vercel.app) and [**LinkedIn**](https://www.linkedin.com/in/jan-bojko/) for more info about my work & experience
 - 🎨 I design my projects' **UI/UX** in Figma
-- 🧪 Exploring: Headless CMS Solutions, SolidJS and SolidStart
+- 🧪 Exploring: Golang, Docker🐳, Kubernetes☸️, Monitoring (Loki, Prometheus, Grafana, Jaeger)
 
 ---
 
