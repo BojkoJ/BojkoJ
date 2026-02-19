@@ -14,11 +14,10 @@
 - 🌱 **Master of Science in Computer Science** – [**VSB-TUO**](https://www.vsb.cz/en/study/degree-students/degree-studies/master-degree/master-degree-detail/?programmeId=1103) 👀 coming soon
 - 🎓 **Bachelor of Science in Computer Science** – [**VSB-TUO**](https://www.vsb.cz/en/study/degree-students/degree-studies/bachelor-degree/bachelor-degree-detail/?programmeId=771) 2025
 - 💼 Software / Web Developer at [**Pickering Interfaces CZ**](https://www.pickeringtest.com) 
-- 💼 Freelance **FullStack Developer**
+- 💼 Freelance **FullStack Developer** and **learning Platform Engineer**
 - ⚙️ Working with: **TypeScript**, **React**, **Next.js**, **SolidJS and SolidStart**, **tRPC**, **Go**, **Prisma**, **Drizzle**, **SQL**, **Python**, **JavaScript**
- - ✅ Check out my  [**Portfolio**](https://bojkoj.vercel.app) and [**LinkedIn**](https://www.linkedin.com/in/jan-bojko/) for more info about my work & experience
-- 🎨 I design my projects' **UI/UX** in Figma
-- 🧪 Exploring: Golang, Docker🐳, Kubernetes☸️, Monitoring (Loki, Prometheus, Grafana, Jaeger)
+- ✅ Check out my  [**Portfolio**](https://bojkoj.vercel.app) and [**LinkedIn**](https://www.linkedin.com/in/jan-bojko/) for more info about my work & experience
+- 🧪 Exploring: Golang, Docker🐳, Kubernetes☸️, Monitoring (Loki, Prometheus, Grafana, Tempo, Mimir, OpenTelemetry), ArgoCD & Tekton
 
 ---
 
