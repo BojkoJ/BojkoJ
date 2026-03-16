@@ -17,7 +17,7 @@
 - 💼 Freelance **FullStack Developer** and **learning DevOps Engineer**
 - ⚙️ Working with: **TypeScript**, **React**, **Next.js**, **SolidJS and SolidStart**, **tRPC**, **Go**, **Prisma**, **Drizzle**, **SQL**, **Python**, **JavaScript**
 - ✅ Check out my  [**Portfolio**](https://bojkoj.vercel.app) and [**LinkedIn**](https://www.linkedin.com/in/jan-bojko/) for more info about my work & experience
-- 🧪 Exploring: Golang, Docker🐳, Kubernetes☸️, Monitoring (Loki, Prometheus, Grafana, Tempo, Mimir, OpenTelemetry), ArgoCD & Tekton
+- 🧪 Exploring: Golang, Docker🐳, Kubernetes☸️, Observability (Loki, Prometheus, Grafana, Tempo, Mimir, OpenTelemetry), ArgoCD & Tekton
 
 ---
 
