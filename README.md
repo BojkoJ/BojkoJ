@@ -15,9 +15,10 @@
 - 🎓 **Bachelor of Science in Computer Science** – [**VSB-TUO**](https://www.vsb.cz/en/study/degree-students/degree-studies/bachelor-degree/bachelor-degree-detail/?programmeId=771) 2025
 - 💼 Software / Web Developer at [**Pickering Interfaces CZ**](https://www.pickeringtest.com) 
 - 💼 Freelance **FullStack Developer** and **learning DevOps Engineer**
-- ⚙️ Working with: **TypeScript**, **React**, **Next.js**, **SolidJS and SolidStart**, **tRPC**, **Go**, **Prisma**, **Drizzle**, **SQL**, **Python**, **JavaScript**
-- ✅ Check out my  [**Portfolio**](https://bojkoj.vercel.app) and [**LinkedIn**](https://www.linkedin.com/in/jan-bojko/) for more info about my work & experience
-- 🧪 Exploring: Golang, Docker🐳, Kubernetes☸️, Observability (Loki, Prometheus, Grafana, Tempo, Mimir, OpenTelemetry), ArgoCD & Tekton
+- ⚙️ **Coding in:** TypeScript, Go, Next.js, SolidJS, ORM (Prisma, Drizzle, GORM), SQL, Python
+- ☁️ **DevOps & Infra:** Docker, Kubernetes (K3s), Terraform, CI/CD (GitHub Actions, GitLab, Tekton, ArgoCD), LGTM Stack, OpenTelemetry, NATS
+- ✅ Check out my [**Portfolio**](https://bojkoj.vercel.app) and [**LinkedIn**](https://www.linkedin.com/in/jan-bojko/) for more info about my work & experience
+- 🧪 Exploring: Advanced GitOps patterns, Cloud-native observability, and distributed messaging systems
 
 ---
 
@@ -44,7 +45,7 @@
 <h3 align="center">🧰 Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,solidjs,express,js,ts,tailwind,html,css,githubactions,figma,npm,pnpm,vercel,github,git,python,django,go,linux,vscode,mysql,mongodb,prisma,cs,dotnet&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,go,solidjs,js,ts,tailwind,nodejs,terraform,githubactions,kubernetes,docker,prometheus,grafana,github,git,html,css,python,linux,vscode,mysql,mongodb,prisma,&perline=8" />
 </p>
 
 ---
