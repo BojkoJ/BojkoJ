@@ -16,7 +16,7 @@
 - 💼 Software / Web Developer at [**Pickering Interfaces CZ**](https://www.pickeringtest.com) 
 - 💼 Freelance **FullStack Developer** and **learning DevOps Engineer**
 - ⚙️ **Coding in:** TypeScript, Go, Next.js, SolidJS, ORM (Prisma, Drizzle, GORM), SQL, Python
-- ☁️ **DevOps & Infra:** Docker, Kubernetes (K3s), Terraform, CI/CD (GitHub Actions, GitLab, Tekton, ArgoCD), LGTM Stack, OpenTelemetry, NATS
+- ☁️ **DevOps & Infra:** Docker, Kubernetes (k3s, k8s), Terraform, CI/CD (GitHub Actions, GitLab, Tekton, ArgoCD), LGTM Stack, Prometheus, OpenTelemetry, NATS
 - ✅ Check out my [**Portfolio**](https://bojkoj.vercel.app) and [**LinkedIn**](https://www.linkedin.com/in/jan-bojko/) for more info about my work & experience
 - 🧪 Exploring: Advanced GitOps patterns, Cloud-native observability, and distributed messaging systems
 
@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://www.tietoevry.com/">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/0*F3stcIHZPDssZl5-.jpg" height="35" tyle="background-color:purple; padding:4px; border-radius:4px;" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*F3stcIHZPDssZl5-.jpg" height="35" border-radius:4px;" />
   </a>
   <br />
 </p>
